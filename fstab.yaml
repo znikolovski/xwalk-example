@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: "https://author-p123469-e1212870.adobeaemcloud.com/content/franklin-examples"
     type: "markup"
-    suffix: ".html?wcmmode=disabled"
+    suffix: ".franklin.html?wcmmode=disabled"
